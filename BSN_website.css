@@ -54,7 +54,7 @@ nav a {
 }
 
 #header {
-  background-image: url(../img/LoungeDark.jpg);
+  background-image: url(img/LoungeDark.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -148,13 +148,13 @@ nav a {
 }
 
 #CPU1C {
-  width: 40%;
-  margin-top: 400px;
-  margin-left: 155px;
+  width: 50%;
+  margin-top: 300px;
+  margin-left: 5px;
 }
 #CPU2C {
   width: 40%;
-  margin-top: 400px;
+  margin-top: 500px;
   margin-left: 155px;
 }
 
@@ -186,8 +186,4 @@ nav a {
 #QuellenHeading {
   font-size: 120px;
   text-decoration: none;
-}
-
-@media only screen and (max-width: 600px) {
-  
 }
